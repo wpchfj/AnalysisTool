@@ -8,4 +8,9 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100" Version="8.0.6" />
+    <PackageReference Include="Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100" Version="8.0.6" />
+  </ItemGroup>
+
 </Project>
